@@ -16,3 +16,20 @@ img {
     display: block;
     margin: auto;
 }
+
+#workHarder {
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.earnIceCream {
+    color: green;
+    font-size: x-small;
+    text-align: center;
+}
+
+#treat {
+    text-align: center;
+}
